@@ -1,0 +1,4 @@
+repository "Astar@adwoidna@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
